@@ -1,4 +1,9 @@
 header{
-    background-color: blue;
+    background-color: black;
     color: white;
 }
+
+.cabecalho-imagem(
+    width: 200px ;
+    height: 200px;
+)
