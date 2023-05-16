@@ -16,8 +16,8 @@ body{
 
 .cabecalho{
 
-    background-color: rgba(3,0,160);
-    color: rgb(3,0,160);
+    background-color: rgb(4, 0, 247);
+    color: rgb(35, 33, 156);
     display: flex;
     padding: 30px;
     font-size: 24px;
@@ -35,7 +35,7 @@ body{
     /*SECÇAO TURMA*/
 }
 .turma{
-    background-image:linear-gradient(rgb(3,0,160),  rgb(3, 0, 160));
+    background-image:linear-gradient(rgb(137,148,211,0.705),  rgb(137,148,211,0.705));
 }
 .turma-titulo{
     padding-bottom: 30px;
@@ -54,7 +54,7 @@ body{
     /*SECÇAO ESTUDANTE*/
 
     .estudante{
-        background-image:linear-gradient(rgba(6,19,95,0.705),rgba(163,173,228,0.705));}
+        background-image:linear-gradient(rgba(137,148,211,0.705),rgba(137, 148, 211, 0.705));}
 
         .estudante-titulo{
             text-align: center;
